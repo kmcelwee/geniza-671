@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/_a/+tiles",
+  "@id": "https://www.kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/_a/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
