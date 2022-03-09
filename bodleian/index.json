@@ -1,0 +1,33 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://kmcelwee.github.io/geniza-671/bodleian/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "MS. Heb. a. 3/1"
+        ]
+      }
+    },
+    {
+      "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-2/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "MS. Heb. a. 3/2"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "Digital description of MS. Heb. a. 3"
+    ]
+  }
+}

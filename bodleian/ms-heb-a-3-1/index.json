@@ -1,0 +1,116 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/_a/MS_HEB_a_3_1a.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_a"
+                  ]
+                },
+                "width": 2284,
+                "height": 8751,
+                "service": [
+                  {
+                    "@id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/_a/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_a"
+        ]
+      },
+      "width": 2284,
+      "height": 8751,
+      "thumbnail": [
+        {
+          "id": "https://kmcelwee.github.io/geniza-671/bodleian/_a/ms-heb-a-3-1/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/_b/MS_HEB_a_3_1b.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_b"
+                  ]
+                },
+                "width": 2450,
+                "height": 8816,
+                "service": [
+                  {
+                    "@id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/_b/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_b"
+        ]
+      },
+      "width": 2450,
+      "height": 8816,
+      "thumbnail": [
+        {
+          "id": "https://kmcelwee.github.io/geniza-671/bodleian/_b/ms-heb-a-3-1/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "MS. Heb. a. 3/1"
+    ]
+  },
+  "description": "Oriental char.; paper, much injured and obliterated. Letter of recommendation. Addressed on the verso האגרת הזאת כתב אותה בידו רבי[נו ברו]ך הרב הגדול והמובהק נט̇ מש̇ בן [רבינו יצח]ק נ̇ע̇ ויכתוב בינו ברוך את האיגרת הזאת להיותה ביד עבדיה הגר אצל כל קהלות ישראל אשר הוא הולך אליהם. With vowel points, some superlinear."
+}

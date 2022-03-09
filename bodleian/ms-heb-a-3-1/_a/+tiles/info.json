@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/_a/+tiles",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 256
+    }
+  ],
+  "width": 2284,
+  "height": 8751
+}
