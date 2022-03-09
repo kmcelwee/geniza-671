@@ -3,23 +3,23 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json",
+  "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0",
+      "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0/annotationpage/0",
+          "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0/annotation/0",
+              "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/_a/MS_HEB_a_3_1a.jpg",
+                "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/_a/MS_HEB_a_3_1a.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -31,13 +31,13 @@
                 "height": 8751,
                 "service": [
                   {
-                    "@id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/_a/+tiles",
+                    "@id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/_a/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0"
+              "target": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/0"
             }
           ]
         }
@@ -51,25 +51,25 @@
       "height": 8751,
       "thumbnail": [
         {
-          "id": "https://kmcelwee.github.io/geniza-671/bodleian/_a/ms-heb-a-3-1/thumb.jpg",
+          "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/_a/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1",
+      "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1/annotationpage/0",
+          "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1/annotation/0",
+              "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/_b/MS_HEB_a_3_1b.jpg",
+                "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/_b/MS_HEB_a_3_1b.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -81,13 +81,13 @@
                 "height": 8816,
                 "service": [
                   {
-                    "@id": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/_b/+tiles",
+                    "@id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/_b/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://kmcelwee.github.io/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1"
+              "target": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/index.json/canvas/1"
             }
           ]
         }
@@ -101,7 +101,7 @@
       "height": 8816,
       "thumbnail": [
         {
-          "id": "https://kmcelwee.github.io/geniza-671/bodleian/_b/ms-heb-a-3-1/thumb.jpg",
+          "id": "https://kmcelwee.com/geniza-671/bodleian/ms-heb-a-3-1/_b/thumb.jpg",
           "type": "Image"
         }
       ]
